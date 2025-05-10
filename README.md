@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Example 3
-
-ad
-
-## Usage
-
 ### Building the book
 
 If you'd like to develop and/or build the Example 3 book, you should:
@@ -32,4 +25,3 @@ We welcome and recognize all contributions. You can see a list of current contri
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
 =======
 This is basically an Example for Henning of the Juypter Book Model.
->>>>>>> 9ed56c287f5c1316a570b1e44cbe12e856936acc
