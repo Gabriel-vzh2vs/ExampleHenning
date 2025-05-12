@@ -16,6 +16,7 @@ project:
     - file: markdown-notebooks.md
     - file: TableofContentsDicussion.ipynb
     - file: ImportExample.ipynb
+    - file: AnsweringQuestionsFromHenning
   exports:
     - format: pdf
       template: springer
