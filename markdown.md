@@ -46,3 +46,11 @@ then the bibliography is inserted with:
 
 ```{bibliography}
 ```
+
+Options for citations:
+You can also optionally customize the style of your references. By default, references are displayed in the alpha style. Other currently supported styles include plain, unsrt, and unsrtalpha. These styles create the following bibliography formatting:
+
+alpha: Use alphanumeric reference labels, citations are sorted by author, year.
+plain: Use numeric reference labels, citations are sorted by author, year.
+unsrt: Use numeric reference labels, citations are sorted by order of appearance.
+unsrtalpha: Use alphanumeric reference labels, citations are sorted by order of appearance.
