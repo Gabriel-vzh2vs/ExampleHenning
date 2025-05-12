@@ -15,6 +15,7 @@ project:
     - file: notebooks.ipynb
     - file: markdown-notebooks.md
     - file: TableofContentsDicussion.ipynb
+    - file: ImportExample.ipynb
   exports:
     - format: pdf
       template: springer
