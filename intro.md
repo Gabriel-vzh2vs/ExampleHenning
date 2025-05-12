@@ -1,5 +1,9 @@
 # Welcome to Gabe's Experimental Notebook.
 
++++ {"part": "abstract"}
+This book aims to introduce advanced undergraduates and early graduate students to the field of Discrete-Event Simulation.
++++
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.

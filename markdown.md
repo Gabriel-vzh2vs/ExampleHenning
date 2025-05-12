@@ -32,7 +32,7 @@ Here is a note
 If you want to do a cross-reference to a document do the following: {doc}`markdown-notebooks`. In the md, it looks like this: `` {doc}`markdown-notebooks` ``.
 
 
-## Citations (Bibtex is in "references.bib)
+## Citations (Bibtex is in "references.bib")
 
 You can also cite references that are stored in a `bibtex` file. For example,
 the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
